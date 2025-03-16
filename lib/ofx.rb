@@ -4,7 +4,7 @@ require 'open-uri'
 require 'nokogiri'
 require 'bigdecimal'
 
-require 'kconv'
+# require 'kconv'
 
 require 'ofx/errors'
 require 'ofx/parser'
